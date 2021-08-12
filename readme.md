@@ -1,6 +1,7 @@
-### Hi there, I'm Perry 👋
-# I just finished my full-stack bootcamp at [Codeboxx][codeboxx]! <br /> Looking for my first job as a software developer.
+# Welcome to my GitHub Profile!
+#### I just finished my full-stack bootcamp at [Codeboxx][codeboxx]! <br /> Looking for my first job as a software developer.
 <br />
+
 ### Connect with me:
 
 [<img align="left" alt="Perry-Sawatzky | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -8,7 +9,7 @@
 
 ### About me
 - 🎧 Audiofile on a budget: Technics SA-200 | Sennheisser HD 6XX.
-- - 🚲 I'm an avid cyclist and I'm training for my first triathalon! 
+- 🚲 I'm an avid cyclist and I'm training for my first triathalon! 
 - 🎷 Lead member of 'Base-Case-Perry and the swinging saxes'.
 - 🛸 Ask what FLIR, GOFAST, or GIMBAL mean to me.
 - 🏈 Vikings and Alouettes armchair expert.
