@@ -1,8 +1,6 @@
 # Welcome to my GitHub Profile!
 ### I just finished my full-stack bootcamp at [Codeboxx][codeboxx]! <br /> Looking for my first job as a software developer.
-<br />
-
-### Connect with me:
+### Connect:
 [<img align="left" alt="Perry-Sawatzky | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="PerrySawatzky | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
