@@ -1,5 +1,17 @@
-### Hi there 👋
-### 🚲 🛸 🎷🎧🏈🦈
+### Hi there, I'm Perry 👋
+## I just finished my full-stack bootcamp at [Codeboxx][codeboxx]! Looking for my first job as a software developer.
+<br />
+### Connect with me:
+[<img align="left" alt="Perry-Sawatzky | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="PerrySawatzky | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+### About me
+- 🚲 I'm an avid cyclist and I'm training for my first triathalon! 
+- 🎧 Audiofile on a budget: Technics SA-200 | Sennheisser HD 6XX
+- 🎷 Lead member of 'Base-Case-Perry and the swinging saxes'.
+- 🛸 Ask what FLIR, GOFAST, or GIMBAL mean to me.
+- 🏈 Vikings and Alouettes armchair expert.
+- 🦈 I like the shark emoji.
 
 ### Languages and Tools:
 
@@ -18,6 +30,10 @@
 
 <img align="left" alt="PerrySawatzky's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PerrySawatzky&show_icons=true&hide_border=true" />
 
+
+[codeboxx]: https://codeboxx.biz/
+[linkedin]: www.linkedin.com/in/perry-sawatzky
+[instagram]:https://www.instagram.com/perry.sawatzky/
 <!--
 **PerrySawatzky/PerrySawatzky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
