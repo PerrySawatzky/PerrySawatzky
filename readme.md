@@ -1,5 +1,5 @@
 # Welcome to my GitHub Profile!
-### I just finished my full-stack bootcamp at [Codeboxx][codeboxx]! <br /> Looking for my first job as a software developer.
+### I just finished my full-stack bootcamp at [Codeboxx][codeboxx]! <br /> Working as an API developer with Rails, GraphQl and Rest.
 ### About me:
 
 - 🎧 Audiofile on a budget: Technics SA-200 | Sennheisser HD 6XX.
