@@ -1,13 +1,11 @@
 # Welcome to my GitHub Profile!
-### I just finished my full-stack bootcamp at [Codeboxx][codeboxx]! <br /> Working as an API developer with Rails, GraphQL, and Rest.
+### Working as a Full Stack Developer and Coach at [Codeboxx][codeboxx]! <br /> I work with with Ruby on Rails, GraphQL, and ReactJS.
 ### About me:
 
 - 🎧 Audiofile on a budget: Technics SA-200 | Sennheisser HD 6XX.
 - 🎷 Lead member of 'Base-Case-Perry and the swinging saxes'.
-- 🚲 I'm an avid cyclist who's training for my first triathalon! 
-- 🛸 Ask what FLIR, GOFAST, or GIMBAL mean to me.
-- 🏈 Vikings and Alouettes armchair expert.
-- 🦈 I like the shark emoji.
+- 🚲 I'm a typical Montreal cyclist.
+- 🏈 Vikings and Alouettes football armchair expert.
 
 ### Connect:
 [<img align="left" alt="Perry-Sawatzky | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -21,8 +19,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
