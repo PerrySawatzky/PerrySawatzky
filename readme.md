@@ -2,10 +2,10 @@
 ### Working as a Full Stack Developer and Coach at [Codeboxx][codeboxx]! <br /> I work with with Ruby on Rails, GraphQL, and ReactJS.
 ### About me:
 
-- 🎧 Audiofile on a budget: Technics SA-200 | Sennheisser HD 6XX
-- 🎷 Lead member of 'Base-Case-Perry and the swinging saxes'
-- 🚲 I'm a typical Montreal cyclist
-- 🏈 Vikings and Alouettes football armchair expert
+- 🎧 Audiofile on a budget: Technics SA-200 | Sennheisser HD 6XX.
+- 🎷 Lead member of 'Base-Case-Perry and the swinging saxes'.
+- 🚲 I'm a typical Montreal cyclist.
+- 🏈 Vikings and Alouettes football armchair expert.
 
 ### Connect:
 [<img align="left" alt="Perry-Sawatzky | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
