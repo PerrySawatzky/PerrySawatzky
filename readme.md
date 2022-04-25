@@ -1,5 +1,5 @@
 # Welcome to my GitHub Profile!
-### Working as a Full Stack Developer and Coach at [Codeboxx][codeboxx]! <br /> I work with with Ruby on Rails, GraphQL, and ReactJS.
+### Working as a Full Stack Developer and Coach at [Codeboxx][codeboxx]! <br /> I work with Ruby on Rails, GraphQL, and ReactJS.
 ### About me:
 
 - 🎧 Audiofile on a budget: Technics SA-200 | Sennheisser HD 6XX.
