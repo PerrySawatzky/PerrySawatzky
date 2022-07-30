@@ -1,8 +1,8 @@
 # Welcome to my GitHub Profile!
-### Working as a Full Stack Developer and Coach at [Codeboxx][codeboxx]! <br /> I work with Ruby on Rails, GraphQL, and ReactJS.
+### Working as a Full Stack Developer  at [Stack Construction Technologies][stackconstructiontechnologies]!
 ### About me:
 
-- 🎧 Audiofile on a budget: Technics SA-200 | Sennheisser HD 6XX.
+- 🎧 Audiofile Technics SA-200 | Sennheisser HD 6XX.
 - 🎷 Lead member of 'Base-Case-Perry and the swinging saxes'.
 - 🚲 I'm a typical Montreal cyclist.
 - 🏈 Vikings and Alouettes football armchair expert.
@@ -31,7 +31,7 @@
 <img align="left" alt="PerrySawatzky's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PerrySawatzky&show_icons=true&hide_border=false&count_private=true&theme=dark&hide=contribs,issues" />
 
 
-[codeboxx]:https://codeboxx.biz/
+[stackconstructiontechnologies]:https://www.stackct.com/about-us/
 [linkedin]:https://www.linkedin.com/in/perry-sawatzky/
 [instagram]:https://www.instagram.com/perry.sawatzky/
 <!--
