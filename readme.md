@@ -1,4 +1,5 @@
-### You will get rich by giving society what it wants but does not yet know how to get. At scale. -Naval Ravikant
+### You will get rich by giving society what it wants but does not yet know how to get. At scale. 
+### -Naval Ravikant
 <!--
 **PerrySawatzky/PerrySawatzky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
